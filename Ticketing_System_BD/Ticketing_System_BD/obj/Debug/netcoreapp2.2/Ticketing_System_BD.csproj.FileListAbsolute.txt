@@ -1,0 +1,4 @@
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\netcoreapp2.2\Ticketing_System_BD.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\netcoreapp2.2\Ticketing_System_BD.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\netcoreapp2.2\Ticketing_System_BD.AssemblyInfoInputs.cache
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\netcoreapp2.2\Ticketing_System_BD.AssemblyInfo.cs

@@ -1,0 +1,14 @@
+C:\Users\Brian\source\repos\Ticketing_System_BD\Ticketing_System_BD\bin\Debug\Ticketing_System_BD.exe.config
+C:\Users\Brian\source\repos\Ticketing_System_BD\Ticketing_System_BD\bin\Debug\Ticketing_System_BD.exe
+C:\Users\Brian\source\repos\Ticketing_System_BD\Ticketing_System_BD\bin\Debug\Ticketing_System_BD.pdb
+C:\Users\Brian\source\repos\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.exe
+C:\Users\Brian\source\repos\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.pdb
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\bin\Debug\Ticketing_System_BD.exe.config
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\bin\Debug\Ticketing_System_BD.exe
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\bin\Debug\Ticketing_System_BD.pdb
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.exe
+C:\Users\Brian\Desktop\.Net Database Programming\Ticketing_System_BD\Ticketing_System_BD\obj\Debug\Ticketing_System_BD.pdb
